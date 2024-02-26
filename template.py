@@ -3,19 +3,19 @@ from pathlib import Path
 
 list_of_files = [
     ".github/workdir/.gitkeep", # continuous integration / continuous deployment (CI/CD)
-    # "packaging_ml_model/__init__.py",
-    "packaging_ml_model/MANIFEST.in",
-    "packaging_ml_model/prediction_model/__init__.py",
-    "packaging_ml_model/prediction_model/config/__init__.py",
-    "packaging_ml_model/prediction_model/config/config.py",
-    "packaging_ml_model/prediction_model/pipeline.py",
-    "packaging_ml_model/prediction_model/predict.py",
-    "packaging_ml_model/prediction_model/processing/__init__.py",
-    "packaging_ml_model/prediction_model/processing/data_handling.py",
-    "packaging_ml_model/prediction_model/processing/preprocessing.py",
-    "packaging_ml_model/prediction_model/trained_models/__init__.py",
-    "packaging_ml_model/prediction_model/training_pipeline.py",
-    "packaging_ml_model/prediction_model/datasets/__init__.py"
+    # "packaging ml model/__init__.py",
+    "packaging ml model/MANIFEST.in",
+    "packaging ml model/prediction_model/__init__.py",
+    "packaging ml model/prediction_model/config/__init__.py",
+    "packaging ml model/prediction_model/config/config.py",
+    "packaging ml model/prediction_model/pipeline.py",
+    "packaging ml model/prediction_model/predict.py",
+    "packaging ml model/prediction_model/processing/__init__.py",
+    "packaging ml model/prediction_model/processing/data_handling.py",
+    "packaging ml model/prediction_model/processing/preprocessing.py",
+    "packaging ml model/prediction_model/trained_models/__init__.py",
+    "packaging ml model/prediction_model/training_pipeline.py",
+    "packaging ml model/prediction_model/datasets/__init__.py"
 ]
 
 for filepath in list_of_files:
