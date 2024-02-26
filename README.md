@@ -2,7 +2,7 @@
 
 <h1>Package in Python</h1>
 
-```bash
+```ini
 A directory with subdirectory can be called a package if it contains __init__.py file.
 ```
 
