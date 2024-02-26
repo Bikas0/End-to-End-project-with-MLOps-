@@ -7,6 +7,7 @@ list_of_files = [
     "packaging-ml-model/MANIFEST.in",
     "packaging-ml-model/prediction_model/__init__.py",
     "packaging-ml-model/prediction_model/config/__init__.py",
+    "packaging-ml-model/prediction_model/config/config.py",
     "packaging-ml-model/prediction_model/pipeline.py",
     "packaging-ml-model/prediction_model/predict.py",
     "packaging-ml-model/prediction_model/processing/__init__.py",
